@@ -1,4 +1,4 @@
-package cn.lambochen.common.exception;
+package cn.lambochen.common.core.exception;
 
 import lombok.Getter;
 

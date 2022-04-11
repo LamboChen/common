@@ -1,4 +1,4 @@
-package cn.lambochen.common.executor.model;
+package cn.lambochen.common.core.executor.model;
 
 import java.io.Serializable;
 

@@ -1,9 +1,9 @@
-package cn.lambochen.common.executor;
+package cn.lambochen.common.core.executor;
 
-import cn.lambochen.common.exception.BizException;
-import cn.lambochen.common.executor.model.Context;
-import cn.lambochen.common.executor.model.Result;
-import cn.lambochen.common.executor.model.Type;
+import cn.lambochen.common.core.exception.BizException;
+import cn.lambochen.common.core.executor.model.Context;
+import cn.lambochen.common.core.executor.model.Result;
+import cn.lambochen.common.core.executor.model.Type;
 
 /**
  * @author lambochen

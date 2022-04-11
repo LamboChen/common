@@ -12,13 +12,12 @@
         <lombok.version>1.18.22</lombok.version>
     </properties>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <scope>provided</scope>
-        </dependency>
-    </dependencies>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>common-core</module>
+        <module>common-samples</module>
+    </modules>
 
     <dependencyManagement>
         <dependencies>
